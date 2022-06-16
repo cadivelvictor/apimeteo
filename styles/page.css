@@ -1,0 +1,21 @@
+html {
+    background-color: lightskyblue;
+    font-family: "GraublauWeb Regular";
+}
+
+@font-face {
+    font-family: "GraublauWeb Regular";
+    src: url('Graublau-Web-Regular.eot');
+    src: local("GraublauWeb-Regular"), url('Graublau-Web-Regular.ttf');
+}
+
+html, body {
+    margin: 0;
+    display: table;
+    width: 100%;
+}
+
+body {
+    margin-top: 15px;
+    font-size: 17px;
+}
